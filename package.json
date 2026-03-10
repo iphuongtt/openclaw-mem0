@@ -1,5 +1,8 @@
 {
-  "name": "@iphuong/openclaw-mem0",
+  "name": "@iphuongtt/openclaw-mem0",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "type": "module",
   "description": "Mem0 memory backend for OpenClaw — platform or self-hosted open-source",
