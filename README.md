@@ -1,4 +1,4 @@
-# @iphuong/openclaw-mem0
+# @iphuongtt/openclaw-mem0
 
 Long-term memory for [OpenClaw](https://github.com/openclaw/openclaw) agents, powered by [Mem0](https://mem0.ai).
 
@@ -29,7 +29,7 @@ All new parameters are optional and backward-compatible — existing configurati
 ## Setup
 
 ```bash
-openclaw plugins install @iphuong/openclaw-mem0
+openclaw plugins install @iphuongtt/openclaw-mem0
 ```
 
 ### Platform (Mem0 Cloud)
